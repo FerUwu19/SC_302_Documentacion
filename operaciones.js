@@ -7,7 +7,6 @@ function suma(a,b){
     }
     
 // Desarrollador 3
-=======
 }
     // Desarrollador 3
 >>>>>>> f782dd85e97d4d4a84f6ca35990b9d81d9df6227
@@ -38,7 +37,7 @@ function raizCuadrada(n) {
 
 function porcentaje(n, porcentaje) { 
 
-    return (n * porcentaje) / 100; 
+ return (n * porcentaje) / 100; 
 
 } 
 // Desarrollador 1 
@@ -63,3 +62,16 @@ function factorial(n) {
     }
     return resultado;
 } 
+// Desarrollador 3 
+
+function maximo(numeros) { 
+
+        let max = numeros[0]; 
+    
+        for (let i = 1; i < numeros.length; i++) { 
+    
+            if (numeros[i] > max) { 
+    
+                max = numeros[i]; 
+    
+            } 
