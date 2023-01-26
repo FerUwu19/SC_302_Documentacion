@@ -3,8 +3,14 @@
 //Desarrollador 2
 function suma(a,b){
     return a +b;
+<<<<<<< HEAD
+    }
+    
+// Desarrollador 3
+=======
 }
     // Desarrollador 3
+>>>>>>> f782dd85e97d4d4a84f6ca35990b9d81d9df6227
 function resta(a, b) {
     return a - b;
 }
@@ -23,3 +29,8 @@ function potencia(base, exponente) {
   return Math.pow(base, exponente); 
 
 } 
+
+// Desarrollador 2
+function raizCuadrada(n) {
+    return Math.sqrt(n);
+}
