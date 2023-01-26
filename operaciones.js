@@ -75,3 +75,9 @@ function maximo(numeros) {
                 max = numeros[i]; 
     
             } 
+    
+        } 
+    
+        return max; 
+    
+    } 
