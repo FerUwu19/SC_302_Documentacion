@@ -26,3 +26,7 @@ agregarFruta("kiwi");
 // Desarrollador 3 
 imprimirFrutas();  
 eliminarFruta("plátano"); 
+
+// Desarrollador 1 
+
+imprimirFrutas();  
