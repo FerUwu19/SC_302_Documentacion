@@ -1,6 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-//Desarrollador 2
-function suma(a,b){
-    return a +b;
-    }
